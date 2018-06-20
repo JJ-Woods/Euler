@@ -1,0 +1,11 @@
+C:\LunchTime\Euler\C#\CSharpSolutions\bin\Debug\netcoreapp2.0\CSharpSolutions.deps.json
+C:\LunchTime\Euler\C#\CSharpSolutions\bin\Debug\netcoreapp2.0\CSharpSolutions.runtimeconfig.json
+C:\LunchTime\Euler\C#\CSharpSolutions\bin\Debug\netcoreapp2.0\CSharpSolutions.runtimeconfig.dev.json
+C:\LunchTime\Euler\C#\CSharpSolutions\bin\Debug\netcoreapp2.0\CSharpSolutions.dll
+C:\LunchTime\Euler\C#\CSharpSolutions\bin\Debug\netcoreapp2.0\CSharpSolutions.pdb
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.csprojAssemblyReference.cache
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.csproj.CoreCompileInputs.cache
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.AssemblyInfoInputs.cache
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.AssemblyInfo.cs
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.dll
+C:\LunchTime\Euler\C#\CSharpSolutions\obj\Debug\netcoreapp2.0\CSharpSolutions.pdb
